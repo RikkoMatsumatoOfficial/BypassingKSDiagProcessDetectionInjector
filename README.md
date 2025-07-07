@@ -1,0 +1,2 @@
+# BypassingKSDiagProcessDetectionInjector
+BypassingKSDiagProcessDetectionInjector by RikkoMatsumatoOfficial
